@@ -1,0 +1,23 @@
+body{
+  background-color: greenyellow;
+}
+h1{
+  font-size: 30px;
+  color: limegreen;
+}
+h2{
+  font-size: 20px;
+  color: red;
+}
+.medium{
+    font-size: 70px;
+}
+.uppercase{
+  text-transform: uppercase;
+}
+.medium.uppercase{
+  color: blue;
+}
+ h1 span{
+  color: teal;
+}
